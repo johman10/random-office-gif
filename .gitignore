@@ -1,0 +1,4 @@
+node_modules
+.git
+public/bundle*
+.DS_Store
